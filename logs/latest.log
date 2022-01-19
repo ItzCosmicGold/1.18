@@ -1,0 +1,190 @@
+[08:07:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:07:44] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[08:07:44] [Worker-Main-2/INFO]: Loaded 7 recipes
+[08:07:45] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[08:07:45] [Server thread/INFO]: Loading properties
+[08:07:45] [Server thread/INFO]: This server is running Paper version git-Paper-152 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: 78999b5)
+[08:07:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:07:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:07:45] [Server thread/INFO]: Default game type: SURVIVAL
+[08:07:45] [Server thread/INFO]: Generating keypair
+[08:07:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:07:45] [Server thread/INFO]: Using default channel type
+[08:07:45] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[08:07:45] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[08:07:47] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_18_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08:07:50] [Server thread/WARN]: Legacy plugin SimpleTpa v5.7 does not specify an api-version.
+[08:07:50] [Server thread/WARN]: Legacy plugin SimpleWarp v2.3 does not specify an api-version.
+[08:07:50] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v5.7
+[08:07:50] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[08:07:50] [Server thread/INFO]: [SimpleWarp] Loading SimpleWarp v2.3
+[08:07:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:07:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:07:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:07:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:07:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:07:50] [Server thread/INFO]: Preparing level "world"
+[08:07:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:07:51] [Server thread/INFO]: Time elapsed: 216 ms
+[08:07:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:07:51] [Server thread/INFO]: Time elapsed: 98 ms
+[08:07:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:07:51] [Server thread/INFO]: Time elapsed: 99 ms
+[08:07:51] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v5.7*
+[08:07:51] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[08:07:51] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 5.7
+[08:07:52] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[08:07:52] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[08:07:52] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[08:07:52] [Server thread/INFO]: [SimpleWarp] Enabling SimpleWarp v2.3*
+[08:07:52] [Server thread/INFO]: Running delayed init tasks
+[08:07:52] [Server thread/INFO]: Done (6.791s)! For help, type "help"
+[08:07:52] [Server thread/INFO]: Timings Reset
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/4, uuid='030bd502-4367-4bb6-bfaa-89a1d7157a4b', l='ServerLevel[world]', x=-114.95, y=67.00, z=-59.16, cpos=[-8, -4], tl=566022, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/8, uuid='030bd502-4367-4bb6-bfaa-89a1d7157a4b', l='ServerLevel[world]', x=-111.84, y=68.00, z=-67.79, cpos=[-7, -5], tl=560021, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/13, uuid='030bd502-4367-4bb6-bfaa-89a1d7157a4b', l='ServerLevel[world]', x=-87.50, y=71.00, z=-92.90, cpos=[-6, -6], tl=536020, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/22, uuid='2a5857d6-1fd1-4438-8a85-c2ad7021e373', l='ServerLevel[world]', x=-68.54, y=73.00, z=-93.97, cpos=[-5, -6], tl=565055, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityCow['Cow'/23, uuid='b39e6879-40c7-43d4-88a5-a64fac4f6999', l='ServerLevel[world]', x=-78.83, y=72.00, z=-76.83, cpos=[-5, -5], tl=146204, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/24, uuid='2a5857d6-1fd1-4438-8a85-c2ad7021e373', l='ServerLevel[world]', x=-74.43, y=65.00, z=-48.65, cpos=[-5, -4], tl=505057, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/34, uuid='2c42ee7f-6c6b-4177-b5fe-d675fd8ebacf', l='ServerLevel[world]', x=-62.50, y=67.00, z=-32.63, cpos=[-4, -3], tl=547058, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/35, uuid='2c42ee7f-6c6b-4177-b5fe-d675fd8ebacf', l='ServerLevel[world]', x=-52.22, y=70.00, z=-14.26, cpos=[-4, -1], tl=571060, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/45, uuid='8e153954-f90c-4700-be23-2de9c928cadb', l='ServerLevel[world]', x=-43.25, y=76.00, z=-79.65, cpos=[-3, -5], tl=571053, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/83, uuid='883e7e3a-6bae-4d71-98de-503b143717d5', l='ServerLevel[world]', x=7.74, y=64.00, z=65.77, cpos=[0, 4], tl=550435, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityZombie['Zombie'/92, uuid='65700687-6fb5-496c-ae3d-55799895f909', l='ServerLevel[world]', x=16.20, y=26.00, z=-51.47, cpos=[1, -4], tl=3810, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/95, uuid='883e7e3a-6bae-4d71-98de-503b143717d5', l='ServerLevel[world]', x=17.67, y=63.00, z=63.20, cpos=[1, 3], tl=562434, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/101, uuid='e977cdb1-6d0d-4deb-89c9-c58ca1490244', l='ServerLevel[world]', x=35.52, y=78.00, z=-24.51, cpos=[2, -2], tl=398421, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/105, uuid='e977cdb1-6d0d-4deb-89c9-c58ca1490244', l='ServerLevel[world]', x=33.34, y=75.00, z=-65.71, cpos=[2, -5], tl=428418, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityZombie['Zombie'/111, uuid='68f6c3a1-a942-4ad9-9ae2-deafe7cc3eb9', l='ServerLevel[world]', x=48.11, y=-16.00, z=33.59, cpos=[3, 2], tl=127331, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityBat['Bat'/113, uuid='76356689-a4b4-4a84-b21c-fcf681ec5713', l='ServerLevel[world]', x=49.79, y=-13.30, z=4.93, cpos=[3, 0], tl=11369, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityLlamaTrader['Trader Llama'/120, uuid='3e0135c8-712c-45de-bff2-50909461608d', l='ServerLevel[world]', x=67.13, y=66.00, z=0.85, cpos=[4, 0], tl=139033, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityLlamaTrader['Trader Llama'/121, uuid='3e0135c8-712c-45de-bff2-50909461608d', l='ServerLevel[world]', x=66.15, y=66.00, z=-2.79, cpos=[4, -1], tl=133032, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/139, uuid='3efd6295-a5a3-4988-b251-59a107f4402e', l='ServerLevel[world]', x=112.52, y=65.00, z=-69.56, cpos=[7, -5], tl=294897, v=false]
+[08:07:53] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/140, uuid='e3009165-9a3b-4951-9892-4b1d2276ea08', l='ServerLevel[world]', x=112.20, y=76.00, z=112.74, cpos=[7, 7], tl=320833, v=false]
+[08:07:54] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/148, uuid='3efd6295-a5a3-4988-b251-59a107f4402e', l='ServerLevel[world]', x=138.44, y=67.00, z=-70.52, cpos=[8, -5], tl=270897, v=false]
+[08:07:54] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/173, uuid='3f8657ba-d84b-4756-a0ea-7d40a3900c61', l='ServerLevel[world]', x=136.21, y=83.00, z=-150.18, cpos=[8, -10], tl=107133, v=false]
+[08:07:54] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/177, uuid='94e7ee55-861c-4564-80db-1a417b0f43c9', l='ServerLevel[world]', x=170.32, y=78.00, z=-125.57, cpos=[10, -8], tl=50268, v=false]
+[08:07:54] [Server thread/WARN]: UUID of added entity already exists: EntityHoglin['Hoglin'/211, uuid='9e1b9754-c060-4a5f-ba20-1f825d2e2750', l='ServerLevel[world_nether]', x=-4.73, y=41.00, z=4.33, cpos=[-1, 0], tl=32634, v=false]
+[08:07:54] [Server thread/WARN]: UUID of added entity already exists: EntityStrider['Strider'/232, uuid='e6a0fac6-0073-4b51-aaf6-ff26b356682a', l='ServerLevel[world_nether]', x=45.55, y=31.50, z=99.56, cpos=[2, 6], tl=113248, v=false]
+[08:07:54] [Server thread/WARN]: UUID of added entity already exists: EntityStrider['Strider'/233, uuid='335910d6-721e-4133-a8d7-fede735f4bbe', l='ServerLevel[world_nether]', x=36.69, y=31.50, z=114.29, cpos=[2, 7], tl=113250, v=false]
+[08:07:54] [Server thread/WARN]: UUID of added entity already exists: EntityStrider['Strider'/247, uuid='e6a0fac6-0073-4b51-aaf6-ff26b356682a', l='ServerLevel[world_nether]', x=58.26, y=31.50, z=87.73, cpos=[3, 5], tl=59247, v=false]
+[08:07:54] [Server thread/WARN]: UUID of added entity already exists: EntityStrider['Strider'/256, uuid='22ea9a50-d196-415a-b5b0-28f596e6af92', l='ServerLevel[world_nether]', x=73.68, y=31.50, z=125.73, cpos=[4, 7], tl=144870, v=false]
+[08:08:06] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[08:08:09] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[08:08:10] [Server thread/INFO]: Plugins (3): SimpleTpa*, SimpleWarp*, SpigotPing
+[08:57:33] [User Authenticator #1/INFO]: UUID of player ApoorvK is 636915b7-7da4-3f66-9ac9-d8397675df7e
+[08:57:34] [Server thread/INFO]: ApoorvK joined the game
+[08:57:34] [Server thread/INFO]: ApoorvK[/[0:0:0:0:0:0:0:1]:57766] logged in with entity id 307 at ([world]184.74456794315586, -17.0, -14.699999988079071)
+[08:57:34] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/451, uuid='56351828-eb21-4a2e-9c73-de1b450ae2e3', l='ServerLevel[world]', x=193.19, y=73.00, z=-168.23, cpos=[12, -11], tl=26337, v=false]
+[08:57:35] [Server thread/WARN]: UUID of added entity already exists: EntityBee['Bee'/460, uuid='c907a526-0233-40ac-97bc-98d86d8565d3', l='ServerLevel[world]', x=50.45, y=86.99, z=-188.73, cpos=[3, -12], tl=66869, v=false]
+[08:57:35] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/480, uuid='fa412a8f-771c-4a77-98f2-6a9dcf00af82', l='ServerLevel[world]', x=104.55, y=98.00, z=-204.16, cpos=[6, -13], tl=102018, v=false]
+[09:00:06] [Server thread/INFO]: Plugins (3): SimpleTpa*, SimpleWarp*, SpigotPing
+[09:00:08] [Server thread/INFO]: There are 1 of a max of 20 players online: ApoorvK
+[09:03:28] [Server thread/INFO]: ApoorvK lost connection: Disconnected
+[09:03:28] [Server thread/INFO]: ApoorvK left the game
+[09:09:37] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[11:49:57] [Server thread/INFO]: Plugins (3): SimpleTpa*, SimpleWarp*, SpigotPing
+[11:49:58] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[13:05:11] [User Authenticator #2/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[13:05:11] [Server thread/INFO]: Gamingmenia joined the game
+[13:05:12] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:50096] logged in with entity id 1231 at ([world]5.5, 78.0, -3.5)
+[13:05:18] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[13:05:18] [Server thread/INFO]: Gamingmenia left the game
+[13:05:51] [User Authenticator #2/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[13:05:51] [Server thread/INFO]: Gamingmenia joined the game
+[13:05:51] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:50100] logged in with entity id 1366 at ([world]5.5, 78.0, -3.5)
+[13:10:41] [Server thread/INFO]: Gamingmenia has made the advancement [Stone Age]
+[13:11:27] [Server thread/INFO]: Gamingmenia has made the advancement [Getting an Upgrade]
+[13:16:50] [Server thread/INFO]: Gamingmenia has made the advancement [Acquire Hardware]
+[13:17:27] [Server thread/INFO]: Gamingmenia was shot by Skeleton
+[13:18:28] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[13:18:28] [Server thread/INFO]: Gamingmenia left the game
+[13:18:46] [User Authenticator #3/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[13:18:46] [Server thread/INFO]: Gamingmenia joined the game
+[13:18:46] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:50128] logged in with entity id 3658 at ([world]120.80361190281428, 87.0, -175.58446917370725)
+[13:18:50] [Server thread/INFO]: Gamingmenia was blown up by Creeper
+[13:20:02] [Server thread/INFO]: There are 1 of a max of 20 players online: Gamingmenia
+[13:30:48] [Server thread/INFO]: Gamingmenia was slain by Zombie
+[13:32:25] [Server thread/INFO]: Gamingmenia has made the advancement [Sweet Dreams]
+[13:44:21] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[13:44:21] [Server thread/INFO]: Gamingmenia left the game
+[13:55:37] [User Authenticator #4/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[13:55:37] [Server thread/INFO]: Gamingmenia joined the game
+[13:55:37] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:49447] logged in with entity id 10186 at ([world]117.30000001192093, 60.0, -455.615403769399)
+[14:16:28] [Server thread/INFO]: Gamingmenia has made the advancement [Suit Up]
+[14:18:53] [Server thread/INFO]: Gamingmenia has made the advancement [Isn't It Iron Pick]
+[14:20:12] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[14:20:13] [Server thread/INFO]: Gamingmenia left the game
+[14:20:29] [User Authenticator #5/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[14:20:29] [Server thread/INFO]: Gamingmenia joined the game
+[14:20:29] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:53244] logged in with entity id 13048 at ([world]109.87967936768078, -3.7753708383176936, -430.8969444073974)
+[14:20:35] [Server thread/INFO]: Gamingmenia was blown up by Creeper
+[14:24:23] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[14:24:23] [Server thread/INFO]: Gamingmenia left the game
+[14:28:12] [User Authenticator #6/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[14:28:12] [Server thread/INFO]: Gamingmenia joined the game
+[14:28:12] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:53260] logged in with entity id 14315 at ([world]92.38184339207113, 81.0, 86.7421309540073)
+[14:32:36] [Server thread/INFO]: Gamingmenia was shot by Skeleton
+[14:36:51] [User Authenticator #7/INFO]: UUID of player Itz_atharv is e4e58729-3b4e-38fe-b0a1-5c1e3f1e67b5
+[14:36:51] [Server thread/INFO]: Itz_atharv joined the game
+[14:36:51] [Server thread/INFO]: Itz_atharv[/[0:0:0:0:0:0:0:1]:53268] logged in with entity id 16535 at ([world]94.77558769905629, 79.0, 42.58311729268638)
+[14:36:56] [Async Chat Thread - #0/INFO]: <Gamingmenia> HIIIIII
+[14:37:06] [Async Chat Thread - #0/INFO]: <Itz_atharv> HII
+[14:37:19] [Async Chat Thread - #0/INFO]: <Gamingmenia> where are you
+[14:37:25] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[14:37:25] [Server thread/INFO]: Gamingmenia left the game
+[14:37:25] [Async Chat Thread - #0/INFO]: <Itz_atharv> ANU HOUSE
+[14:38:09] [Server thread/INFO]: Itz_atharv lost connection: Disconnected
+[14:38:09] [Server thread/INFO]: Itz_atharv left the game
+[14:39:09] [User Authenticator #8/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[14:39:09] [Server thread/INFO]: Gamingmenia joined the game
+[14:39:09] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:53272] logged in with entity id 16953 at ([world]88.39465329178364, 79.0, 61.34384552202213)
+[14:40:25] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[14:40:25] [Server thread/INFO]: Gamingmenia left the game
+[14:55:42] [User Authenticator #9/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[14:55:42] [Server thread/INFO]: Gamingmenia joined the game
+[14:55:42] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:54764] logged in with entity id 17320 at ([world]84.78065645294721, 79.0, 61.238365107689305)
+[14:56:02] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[14:56:02] [Server thread/INFO]: Gamingmenia left the game
+[15:32:21] [User Authenticator #10/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[15:32:21] [Server thread/INFO]: Gamingmenia joined the game
+[15:32:21] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:54876] logged in with entity id 17463 at ([world]83.92500001192093, 79.0, 61.52701395844916)
+[15:38:59] [Server thread/INFO]: Gamingmenia has made the advancement [Diamonds!]
+[16:13:53] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[16:13:53] [Server thread/INFO]: Gamingmenia left the game
+[16:14:32] [User Authenticator #11/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[16:14:32] [Server thread/INFO]: Gamingmenia joined the game
+[16:14:32] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:56353] logged in with entity id 23512 at ([world]101.48171281488774, 79.0, 73.02069997082037)
+[16:22:26] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[16:22:26] [Server thread/INFO]: Gamingmenia left the game
+[16:51:33] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[16:51:35] [Server thread/INFO]: Plugins (3): SimpleTpa*, SimpleWarp*, SpigotPing
+[16:51:36] [Server thread/INFO]: Plugins (3): SimpleTpa*, SimpleWarp*, SpigotPing
+[16:51:37] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[16:51:38] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[17:47:09] [User Authenticator #12/INFO]: UUID of player Gamingmenia is 26af1bc8-8efd-3646-ac70-6d741559313d
+[17:47:10] [Server thread/INFO]: Gamingmenia joined the game
+[17:47:10] [Server thread/INFO]: Gamingmenia[/[0:0:0:0:0:0:0:1]:63121] logged in with entity id 25099 at ([world]102.43319655910261, 79.0, 64.74094682818333)
+[17:50:49] [Server thread/INFO]: Gamingmenia has made the advancement [Monster Hunter]
+[18:20:33] [Server thread/INFO]: Gamingmenia lost connection: Disconnected
+[18:20:34] [Server thread/INFO]: Gamingmenia left the game
+[18:50:07] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[18:50:13] [Server thread/INFO]: Stopping the server
+[18:50:13] [Server thread/INFO]: Stopping server
+[18:50:13] [Server thread/INFO]: [SimpleWarp] Disabling SimpleWarp v2.3
+[18:50:13] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[18:50:13] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[18:50:13] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v5.7
+[18:50:13] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[18:50:13] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 5.7
+[18:50:14] [Server thread/INFO]: Saving players
+[18:50:14] [Server thread/INFO]: Saving worlds
+[18:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:50:14] [Server thread/INFO]: Flushing Chunk IO
+[18:50:14] [Server thread/INFO]: Closing Thread Pool
+[18:50:14] [Server thread/INFO]: Closing Server
